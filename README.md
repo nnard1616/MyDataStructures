@@ -1,6 +1,7 @@
 # MyDataStructures
 My Implementations of Elementary Data Structures in Java.
-Developed in Netbeans 8.2
+
+Developed in Netbeans 8.2, JDK 8
 
 SLList, Stack, and Queue implementations are currently very basic with little functionality.  
 
